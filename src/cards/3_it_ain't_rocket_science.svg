@@ -3,6 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 167.2 249.4" enable-background="new 0 0 167.2 249.4" xml:space="preserve">
+<defs>
+	<style>
+	@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;500&amp;display=swap')
+	</style>
+</defs>
 <rect x="-5.7" y="-5.7" fill="#AFC3CF" width="178.6" height="260.8"/>
 <circle fill="#FFFFFF" cx="125.9" cy="245.1" r="6.1"/>
 <circle fill="#FFFFFF" cx="134.7" cy="236.6" r="7.9"/>
@@ -12,14 +17,14 @@
 <circle fill="#FFFFFF" cx="160" cy="218.5" r="9.6"/>
 <circle fill="#BA3033" cx="20.8" cy="39.2" r="2.6"/>
 <g>
-	<text transform="matrix(1 0 0 1 15.4419 29.7174)" font-family="'RobotoSlab-Regular'" font-size="20">3</text>
+	<text transform="matrix(1 0 0 1 15.4419 29.7174)" font-family="'Roboto Slab'" font-weight="200" font-size="20">3</text>
 </g>
 <circle fill="#BA3033" cx="146.4" cy="210.3" r="2.6"/>
 <g>
 	<circle fill="none" stroke="#484C57" stroke-miterlimit="10" stroke-dasharray="6.0161,6.0161" cx="115.1" cy="64.8" r="90"/>
 </g>
 <line fill="none" stroke="#BE5338" stroke-miterlimit="10" x1="-2.3" y1="166.9" x2="191" y2="-23.6"/>
-<text transform="matrix(1 0 0 1 47.0925 176.6375)" font-family="'RobotoSlab-Thin'" font-size="140">3</text>
+<text transform="matrix(1 0 0 1 35.0925 190.6375)" font-family="'Roboto Slab'" font-weight="200" font-size="200">3</text>
 <g>
 	<polygon fill="#5C7F8E" points="33.5,214.3 34.7,203.3 36,214.3 	"/>
 	<polygon fill="#5C7F8E" points="36,214.3 34.7,225.3 33.5,214.3 	"/>
@@ -93,6 +98,6 @@
 <rect x="94.3" y="28.5" transform="matrix(0.83 -0.5577 0.5577 0.83 -0.6448 57.8314)" fill="#434249" width="0.4" height="3"/>
 <polygon fill="#FFFFFF" points="164.9,204.7 172.6,204.7 172.6,255.1 120.9,255.1 120.9,246.7 144.6,227 "/>
 <g>
-	<text transform="matrix(-1 0 0 -1 151.8012 219.7319)" font-family="'RobotoSlab-Regular'" font-size="20">3</text>
+	<text transform="matrix(-1 0 0 -1 151.8012 219.7319)" font-family="'Roboto Slab'" font-weight="200" font-size="20">3</text>
 </g>
 </svg>

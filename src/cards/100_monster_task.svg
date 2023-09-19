@@ -3,6 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 167.2 249.4" enable-background="new 0 0 167.2 249.4" xml:space="preserve">
+<defs>
+	<style>
+	@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;500&amp;display=swap')
+	</style>
+</defs>
 <rect x="-5.7" y="-5.7" fill="#D4E7B1" width="178.6" height="260.8"/>
 <g>
 	<g opacity="0.2">
@@ -34,11 +39,11 @@
 </g>
 <circle fill="#BA3033" cx="23.8" cy="39.2" r="2.6"/>
 <g>
-	<text transform="matrix(1 0 0 1 11.4203 28.6079)" font-family="'RobotoSlab-Regular'" font-size="16">100</text>
+	<text transform="matrix(1 0 0 1 11.4203 28.6079)" font-family="'Roboto Slab'" font-weight="200" font-size="16">100</text>
 </g>
 <circle fill="#BA3033" cx="143.4" cy="210.3" r="2.6"/>
 <g>
-	<text transform="matrix(-1 0 0 -1 155.8207 220.8426)" font-family="'RobotoSlab-Regular'" font-size="16">100</text>
+	<text transform="matrix(-1 0 0 -1 155.8207 220.8426)" font-family="'Roboto Slab'" font-weight="200" font-size="16">100</text>
 </g>
 <g opacity="0.2">
 	<path fill="#5E806F" d="M138.4,214.9c0,0.3-0.6,0.5-1.3,0.5H78.4c-0.7,0-1.3-0.2-1.3-0.5s0.6-0.5,1.3-0.5h58.8
@@ -76,7 +81,7 @@
 	</g>
 	<path fill="#528E73" d="M55.8,39.2c-2.7,0.7-4.3,3.4-3.7,6.1c0.2,0.7,0.5,1.3,0.9,1.8l7.7-6.4C59.5,39.4,57.6,38.8,55.8,39.2z"/>
 </g>
-<text transform="matrix(1 0 0 1 22.1987 149.2247)" font-family="'RobotoSlab-Thin'" font-size="80.612">100</text>
+<text transform="matrix(1 0 0 1 22.1987 149.2247)" font-family="'Roboto Slab'" font-weight="200" font-size="80.612">100</text>
 <g>
 	<path fill="#528E73" d="M58.9,136.4c-3.5,0-7-0.6-10.5-1.7l5.7-2.7l-3.2-4.7c11.6,3.9,24.3-1.1,30.1-11.9c4.1-7.6,10.7-3.8,6.8,3.7
 		C82.1,130.1,70.7,136.4,58.9,136.4z"/>

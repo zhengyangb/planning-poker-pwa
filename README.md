@@ -15,3 +15,5 @@ This uses PWA standards so you can install this app to your home screen, and use
 ## Demo
 
 [https://emersonsoares.github.io/planning-poker-pwa](https://emersonsoares.github.io/planning-poker-pwa)
+
+The pokers cards in the original repo seem to be created by https://github.com/redbooth/scrum-poker-cards/tree/master.

@@ -5,6 +5,8 @@ import { Link } from "react-router-dom"
 import Card from "./Card"
 import coverImage from "../cards/cover.svg"
 
+import "./Deck.css"
+
 class Deck extends Component {
   constructor(props) {
     super(props)
@@ -17,7 +19,7 @@ class Deck extends Component {
   render() {
     if (this.state.isPreSelected) {
       return (
-        <Link to={`/${this.state.valueSelected}`}>
+        <Link to={`/${this.state.valueSelected}`} style={{position: "absolute", height: "100%", width: "100%"}}>
           <Card value="COVER" image={coverImage} isSelected />
         </Link>
       )
@@ -29,7 +31,7 @@ class Deck extends Component {
           {this.props.cards.map(card => (
             <div
               onClick={() => this.handleFlipCard(card)}
-              className="col-4 mt-2 col-sm-3 mt-sm-3 col-md-3 col-lg-2 mt-lg-4"
+              className="row-item"
               key={card.value}
             >
               <Card {...card} />

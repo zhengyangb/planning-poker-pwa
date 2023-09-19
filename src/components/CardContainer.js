@@ -24,7 +24,7 @@ class CardContainer extends Component {
 
   render() {
     return (
-      <Link to="/">
+      <Link to="/" style={{position: "absolute", height: "100%", width: "100%"}}>
         <Card {...this.state} />
       </Link>
     )
